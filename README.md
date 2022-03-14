@@ -10,20 +10,17 @@
   </a>
 </p>
 
-- :rocket: Tech Skills:
-  - <div> <img style="vertical-align:middle" alt="Ruby" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> <span> Ruby | Capybara | Siteprism | Faraday</span> </div>
-  - <div> <img style="vertical-align:middle" alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <span> Python </span> | 
-    <img style="vertical-align:middle" alt="Flask" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> <span> Flask </span> | Pytest </span> </div>
-  - <div> <img style="vertical-align:middle" alt="Javascript" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <span> JavaScript | 
-    <img style="vertical-align:middle" alt="Typescript" height="17" width="17" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <span> Typescript </span> | 
-    <img style="vertical-align:middle" alt="NodeJS" height="17" width="17" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> Node.js | Express.js | TypeORM </span> </div>
-  -  <div> <img style="vertical-align:middle" alt="PostgreSQL" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"> <span> PostgreSQL </span> </div>
+Hello! I'm Wilton 👋. Currently i'm working as a Senior Software Development Engineer in Test @ Petlove&CO (Remote).
 
-- :mortar_board: Studying (Backend): 
-  - <div> <img style="vertical-align:middle" alt="PostgreSQL" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> <span> Elixir </span> | <img style="vertical-align:middle" alt="Phoenix" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg"> <span> Phoenix </span> </div> 
-  - <div> <img style="vertical-align:middle" alt="Typescript" height="17" width="17" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> Node.js | 
-    <img style="vertical-align:middle" alt="Typescript" height="17" width="17" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <span> Typescript </span> | Prisma </span> </div>
-* :briefcase: I am currently working as a <strong>Software Developer Engineer in Test</strong>.
+I'm specialized in implementing automated tests for all the parts of Web APPs, such as Frontend, Backend and Mobile, and currently i'm focusing my studies on Backend development, more specifically with the functional language Elixir and it's web framework Phoenix.
+
+- 💼: Tech Skills:
+  - <div> <img style="vertical-align:middle" alt="Ruby" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> <span> Ruby + Selenium / Appium / Faraday (Front, Back and Mobile test frameworks) </span> </div>
+  - <div> <img style="vertical-align:middle" alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <span> Python + Pytest (Frontend test framework)  </span> </div>
+  - <div> <img style="vertical-align:middle" alt="Javascript" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <span> JavaScript | 
+    <img style="vertical-align:middle" alt="Typescript" height="17" width="17" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <span> Typescript </span> | Cypress (Frontend test framework) </span> </div>
+
+- :mortar_board: Studying: API development with Elixir + Phoenix 
 
 <br>
 
