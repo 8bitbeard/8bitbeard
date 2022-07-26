@@ -16,7 +16,7 @@ I'm specialized in implementing automated tests for all the parts of Web APPs, s
 
 - 💼: Tech Skills:
   - <div> <img style="vertical-align:middle" alt="Ruby" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> <span> Ruby + Selenium / Appium / Faraday (Front, Back and Mobile test frameworks) </span> </div>
-  - <div> <img style="vertical-align:middle" alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <span> Python + Pytest (Frontend test framework)  </span> </div>
+  - <div> <img style="vertical-align:middle" alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <span> Python + Pytest  </span> </div>
   - <div> <img style="vertical-align:middle" alt="Javascript" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <span> JavaScript | 
     <img style="vertical-align:middle" alt="Typescript" height="17" width="17" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <span> Typescript </span> | Cypress | Jest | Supertest </span> </div>
 
