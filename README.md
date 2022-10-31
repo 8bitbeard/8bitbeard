@@ -27,7 +27,7 @@ I'm specialized in implementing automated tests for all the parts of Web APPs, s
  <div>
   <a href="https://github.com/8bitbeard">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=8bitbeard&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&custom_title=GitHub%20Status&hide=issue&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8bitbeard&layout=compact&langs_count=7&theme=gruvbox&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8bitbeard&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
 </div>
 
 <!--
