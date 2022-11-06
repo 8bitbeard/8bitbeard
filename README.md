@@ -10,9 +10,11 @@
   </a>
 </p>
 
-Hello! I'm Wilton 👋. Currently i'm working as a Senior Software Development Engineer in Test @ Petlove&CO (Remote).
+Hello! I'm Wilton 👋. Currently i'm working as a Backend Software Development Engineer with Python (AWS Lambda) and Java/Kotlin + Springboot.
 
-I'm specialized in implementing automated tests for all the parts of Web APPs, such as Frontend, Backend and Mobile, and currently i'm focusing my studies on Backend development, more specifically with the functional language Elixir and it's web framework Phoenix.
+I Started my IT career as a QA Engineer, and i'm specialized in implementing automated tests for all the parts of Web APPs, such as Frontend, Backend and Mobile.
+
+Currently i'm focusing my studies on Backend development, with langages such as Java Kotlin and Elixir, and i'm also learning Rust!
 
 - 💼: Tech Skills:
   - <div> <img style="vertical-align:middle" alt="Ruby" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> <span> Ruby + Selenium / Appium / Faraday (Front, Back and Mobile test frameworks) </span> </div>
