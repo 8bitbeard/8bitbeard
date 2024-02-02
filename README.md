@@ -14,21 +14,28 @@ Hello! I'm Wilton 👋. Currently i'm working as a Backend Software Development 
 
 I Started my IT career as a QA Engineer, and i'm specialized in implementing automated tests for all the parts of Web APPs, such as Frontend, Backend and Mobile.
 
-Currently i'm focusing my studies on Backend development, with langages such as Java Kotlin and Elixir, and i'm also learning Rust!
+Currently i'm focusing my studies on Backend development, with langages such as Java Kotlin and Golang.
 
 - 💼: Tech Skills:
+  - Java / Kotlin (Springboot)
+  - Python (Flask / FastAPI)
+  - Go
+  - AWS (Lambda, Api Gateway, Step Function, EKS, Secrets Manager, CloudWatch)
+  
+  <!--
   - <div> <img style="vertical-align:middle" alt="Ruby" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> <span> Ruby + Selenium / Appium / Faraday (Front, Back and Mobile test frameworks) </span> </div>
   - <div> <img style="vertical-align:middle" alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <span> Python + Pytest  </span> </div>
   - <div> <img style="vertical-align:middle" alt="Javascript" height="16" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <span> JavaScript | 
     <img style="vertical-align:middle" alt="Typescript" height="17" width="17" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <span> Typescript </span> | Cypress | Jest | Supertest </span> </div>
-
+  -->
+<!--
 - :mortar_board: Studying: API development with Elixir + Phoenix 
+-->
 
 <br>
 
  <div>
   <a href="https://github.com/8bitbeard">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=8bitbeard&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&custom_title=GitHub%20Status&hide=issue&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8bitbeard&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
 </div>
 
